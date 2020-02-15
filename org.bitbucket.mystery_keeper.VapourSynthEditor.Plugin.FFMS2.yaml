@@ -1,5 +1,5 @@
 id: org.bitbucket.mystery_keeper.VapourSynthEditor.Plugin.FFMS2
-branch: 1-5.13
+branch: 1-5.14
 runtime: org.bitbucket.mystery_keeper.VapourSynthEditor
 runtime-version: stable
 sdk: org.freedesktop.Sdk//19.08
